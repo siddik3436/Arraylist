@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArrayListsetget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contact">ContactList</string>
+    <string name="id">Identification No</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile No</string>
+    <string name="save">save</string>
+    <string name="view">view all</string>
+
+</resources>
